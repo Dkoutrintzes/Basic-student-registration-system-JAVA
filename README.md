@@ -1,1 +1,1 @@
-# Basic-student-registration-system-JAVA
+# Basic student registration system JAVA
