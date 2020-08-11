@@ -1,13 +1,18 @@
 # Basic student registration system JAVA
- 1. Εισαγωγή φοιτητή
- 2. Εμφάνιση όλων των φοιτητών  
- 3. Αναζήτηση φοιτητή με βάση το AM
- 4. Αναζήτηση φοιτητή με βάση το επώνυμο
- 5. Ποιοι φοιτητές έχουν εισηχθεί στο πανεπιστήμιο κάποια συγκεκριμένη χρονιά
- 6. Ποιοι φοιτητές κατοικούν σε συγκεκριμένη πόλη
- 7. Εμφάνιση του φοιτητή με τα περισσότερα περασμένα μαθήματα
- 8. Εμφάνιση του φοιτητή με τον μεγαλύτερο μέσο όρο
- 9. Εισαγωγή μαθήματος 
- 10. Εμφάνιση φοιτητών που έχουν περάσει κάποιο συγκεκριμένο μάθημα
- 11. Εμφάνιση όλων των μαθημάτων
- 0. Exit   
+ A vary basic system for a profesore to register 
+ 
+ A vary basic system for a professor to register students and to be able to see some informations about them, it has 3 different classes, address, course and person that will    represent the characteristics of each student.
+ When the professor enters the system will be presented a menu of the follow options , every option its self-explanatory.
+
+ 1. Student introduction
+ 2. Show all students
+ 3. Student search based on AM
+ 4. Search for a student by surname
+ 5. Which students have been admitted to the university in a particular year
+ 6. Which students live in a specific city
+ 7. Appearance of the student with the most completed courses
+ 8. Appearance of the student with the highest average
+ 9. Course introduction
+ 10. Appearance of students who have passed a specific course
+ 11. Show all courses
+ 0. Exit  
